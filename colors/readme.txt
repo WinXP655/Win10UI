@@ -1,0 +1,1 @@
+After applying registry you need to logoff. Then go to Display properties and save the color scheme for future use(if it will be real)
