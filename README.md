@@ -7,8 +7,6 @@ Win XP 10 Pack is a pack for those who love to experiment and create. You can cu
 
 Win XP 10 Pack is a pack for those who want Win 10, but their PC does not support it. It works on any computer with Windows NT 4.0 and higher and does not require any updates or installations
 
-Win XP 10 Pack is a pack that you should try. Download it now and enjoy a new experience with Windows XP. You will not regret it!
-
 Installation and Usage
 ---------------------
 
