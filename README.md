@@ -23,6 +23,22 @@ To install and use Win XP 10 Pack, you need to do the following steps:
 - Copy "(system drive)\Win10Pack\files\Microsoft Edge" to desktop
 - Optional - make a toolbar for "(system drive)\win10pack\files\Quick" folder
 - Optional - make a large icons
+- Change names of folders: 
+  1. My Computer - This PC
+  2. My Documents - Documents
+  3. My Music - Music
+  4. My Pictures - Pictures
+  5. My Network Places - Network
+- Add 2 shortcuts and set their icons to Win 10(system drive\Win10Pack\icons\imageres):
+  1. (Your username). Target: %userprofile%
+  2. Control Panel. Target: control.exe
+- Set icons to this order
+  1. (user folder shortcut)
+  2. This PC
+  3. Network
+  4. Control Panel
+  5. Recycle Bin
+  6. Microsoft Edge
 
 That's it! You have successfully installed and used Win 10 UI Pack. Enjoy your new Windows XP!
 
@@ -244,7 +260,7 @@ Windows Logon - (system drive)\Win10Pack\sounds\Windows Logon.wav
 
 
 - Explorer
-- 
+
 Blocked Pop-up - (system drive)\Win10Pack\sounds\Windows Pop-up Blocked.wav
 
 Empty Recycle Bin - (system drive)\Win10Pack\sounds\Windows Recycle.wav
