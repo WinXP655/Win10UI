@@ -36,17 +36,27 @@ Preparing
 	2. Select visual style "Windows Classic"
 	3. Click "Advanced"
 	4. Set this settings
+    
 		Title bar - Segoe UI, 9px, Regular
+
 		Message box - Segoe UI, 9px, Regular
+
 		Menu - Segoe UI, 9px, Regular
+
 		Tooltip - Segoe UI, 9px, Regular
+
 		Icon - Segoe UI, 9px, Regular
+
 		Border - 3 px
+
 		Title bar - 20 px
+
 		Menu - 19 px
+
 		Scroll bar - 17 px
-	5. Click "OK"
+
 	6. Click "OK"
+	7. Click "OK"
 2. Cursor
 	1. Open "Mouse Properties" and select "Pointer"
 	2. Select cursor "Win 10 Regular", "Win 10 Large" or "Win 10 Extra Large"
@@ -56,34 +66,61 @@ Preparing
 Now we're ready to make themes. Make them in an any order
 
 XP 10 Classic:
+
 	1. Import "XP 10 Classic.reg"
+ 
 	2. Click "Yes"
+ 
 	3. Logoff and logon
+ 
 	4. Open "Display Properties"
+ 
 	5. Click "Save as"
+ 
 	6. Enter "XP 10 Classic"
+ 
 	7. Click "Save"
+ 
 	8. Theme ready
+ 
 	
 XP 10 Dark:
+
 	1. Import "XP 10 Dark.reg"
+ 
 	2. Click "Yes"
+ 
 	3. Logoff and logon
+ 
 	4. Open "Display Properties"
+ 
 	5. Click "Save as"
+ 
 	6. Enter "XP 10 Dark"
+ 
 	7. Click "Save"
+ 
 	8. Theme ready
+ 
 
 XP 10 Light:
+
 	1. Import "XP 10 Light.reg"
+ 
 	2. Click "Yes"
+ 
 	3. Logoff and logon
+ 
 	4. Open "Display Properties"
+ 
 	5. Click "Save as"
+ 
 	6. Enter "XP 10 Light"
+ 
 	7. Click "Save"
+ 
 	8. Theme ready
+ 
 
 How to change icons
 -------------------
@@ -148,40 +185,74 @@ How to install sounds
 
 You need to set these sounds to a sound events
 - System
+
 Asterisk - (system drive)\Win10Pack\sounds\Windows Background.wav
+
 Close Program - (none)
+
 Critical Battery - (system drive)\Win10Pack\sounds\Windows Foreground.wav
+
 Critical Stop -  (system drive)\Win10Pack\sounds\Windows Foreground.wav
+
 Default Beep - (system drive)\Win10Pack\sounds\Windows Background.wav
+
 Device Connect - (system drive)\Win10Pack\sounds\Windows Hardware Insert.wav
+
 Device Disconnect - (system drive)\Win10Pack\sounds\Windows Hardware Remove.wav
+
 Device Failed to Connect - (system drive)\Win10Pack\sounds\Windows Hardware Fail.wav
+
 Exclamation - (system drive)\Win10Pack\sounds\Windows Background.wav
+
 Exit Windows - (system drive)\Win10Pack\sounds\Windows Shutdown.wav
+
 Low Battery - (system drive)\Win10Pack\sounds\Windows Background.wav
+
 Maximize - (none)
+
 Menu command - (none)
+
 Menu popup - (none)
+
 Minimize - (none)
+
 New Mail Notification - (system drive)\Win10Pack\sounds\Windows Notify Email.wav
+
 Open program - (none)
+
 Print complete - (none)
+
 Program Error - (system drive)\Win10Pack\sounds\Windows Print complete.wav
+
 Question - (none)
+
 Restore Down - (none)
+
 Restore Up - (none)
+
 Select - (none)
+
 Show toolbar band - (none)
+
 Start Windows - (system drive)\Win10Pack\sounds\Windows Logon.wav
+
 System Notification - (system drive)\Win10Pack\sounds\Windows Notify System Generic.wav
+
 Windows Logoff -  (system drive)\Win10Pack\sounds\Windows Logoff Sound.wav
+
 Windows Logon - (system drive)\Win10Pack\sounds\Windows Logon.wav
 
+
 - Explorer
+- 
 Blocked Pop-up - (system drive)\Win10Pack\sounds\Windows Pop-up Blocked.wav
+
 Empty Recycle Bin - (system drive)\Win10Pack\sounds\Windows Recycle.wav
+
 Notification Bar - (system drive)\Win10Pack\sounds\Windows Information Bar.wav
+
 Start Navigation - (system drive)\Win10Pack\sounds\Windows Navigation Start.wav
+
 
 Disclaimer
 ----------
