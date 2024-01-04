@@ -7,7 +7,7 @@ Win XP 10 Pack is a unique and fun pack that combines the old and the new. It ma
 
 Win 10 UI Pack is a pack for those who love to experiment and create. You can customize it to your liking and add your own additions and changes. You can use dummy files, shortcuts, scripts and more to make your pack more original and fun.
 
-Win 10 UI Pack is a pack for those who want Win 10, but their PC does not support it. It works on any computer with Windows NT 4.0 and higher and does not require any updates or installations. NT 4.0 - for JPG wallpapers you need to install IE 4 
+Win 10 UI Pack is a pack for those who want Win 10, but their PC does not support it. It works on any computer with Windows XP
 
 Installation and Usage
 ---------------------
