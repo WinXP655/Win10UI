@@ -48,7 +48,7 @@ HKCU,"Control Panel\Cursors",Pin,0x00020000,"%10%\%CUR_DIR%\%pin%"
 "aero_nesw_xl.cur"
 "aero_move_xl.cur"
 "aero_up_xl.cur"
-"laero_link_xl.cur"
+"aero_link_xl.cur"
 
 [Strings]
 CUR_DIR     = "Cursors\Win10ExtraLarge"
