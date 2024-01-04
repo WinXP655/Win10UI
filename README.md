@@ -51,7 +51,7 @@ Preparing
 	1. Open "Mouse Properties" and select "Pointer"
 	2. Select cursor "Win 10 Regular", "Win 10 Large" or "Win 10 Extra Large"
 	3. Click "OK"
-3. Set Win
+3. Set sounds
 	
 Now we're ready to make themes. Make them in an any order
 
