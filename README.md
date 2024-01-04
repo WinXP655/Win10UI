@@ -20,6 +20,10 @@ To install and use Win XP 10 Pack, you need to do the following steps:
 - Install wallpaper
 - Install icons
 - Install sounds
+- Set Explorer layout to Win 10 Variant
+  1. Set icon size - Small, text of icons - no
+  2. Button layout: Back, Forward, Up, Address bar
+  3. Disable explorer sidebar
 - Copy "(system drive)\Win10Pack\files\Microsoft Edge" to desktop
 - Optional - make a toolbar for "(system drive)\win10pack\files\Quick" folder
 - Optional - make a large icons
@@ -269,6 +273,19 @@ Notification Bar - (system drive)\Win10Pack\sounds\Windows Information Bar.wav
 
 Start Navigation - (system drive)\Win10Pack\sounds\Windows Navigation Start.wav
 
+Uninstall correctly
+-------------------
+1. Set Windows XP default theme
+2. Set regular icon size
+3. Delete cursor
+4. Close toolbar "Quick"
+5. Restore XP Explorer layout
+   - Icon size - Large, Text - random on left
+   - Button layout: Back, Forward, Up, (Separator), Folders, Search, (Separator), View
+6. Enable Explorer sidebar
+7. Delete fonts
+8. Delete (system drive)\Win10Pack
+9. Ready!
 
 Disclaimer
 ----------
