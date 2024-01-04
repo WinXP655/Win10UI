@@ -284,8 +284,18 @@ Uninstall correctly
    - Button layout: Back, Forward, Up, (Separator), Folders, Search, (Separator), View
 6. Enable Explorer sidebar
 7. Delete fonts
-8. Delete (system drive)\Win10Pack
-9. Ready!
+8. Delete 3 shortcuts
+   - Microsoft Edge
+   - Control Panel
+   - (your username)
+9. Delete (system drive)\Win10Pack
+10. Rename folders to its old name
+    - This PC > My Computer
+    - Music > My Music
+    - Pictures > My Pictures
+    - Documents > My Documents
+    - Network > My Network Places
+11. Ready!
 
 Disclaimer
 ----------
