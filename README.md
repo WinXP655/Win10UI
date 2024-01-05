@@ -27,7 +27,7 @@ To install and use Win XP 10 Pack, you need to do the following steps:
 - Copy "(system drive)\Win10Pack\files\Microsoft Edge" to desktop
 - Optional - make a toolbar for "(system drive)\win10pack\files\Quick" folder
 - Optional - make a large icons
-- Change names of folders: 
+- Optional - change names of folders: 
   1. My Computer - This PC
   2. My Documents - Documents
   3. My Music - Music
