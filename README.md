@@ -20,11 +20,11 @@ To install and use Win XP 10 Pack, you need to do the following steps:
 - Install wallpaper
 - Install icons
 - Install sounds
-- Set Explorer layout to Win 10 Variant
+- Optional - set Explorer layout to Win 10 Variant
   1. Set icon size - Small, text of icons - no
   2. Button layout: Back, Forward, Up, Address bar
   3. Disable explorer sidebar
-- Copy "(system drive)\Win10Pack\files\Microsoft Edge" to desktop
+- Optional - copy "(system drive)\Win10Pack\files\Microsoft Edge" to desktop
 - Optional - make a toolbar for "(system drive)\win10pack\files\Quick" folder
 - Optional - make a large icons
 - Optional - change names of folders: 
@@ -33,16 +33,9 @@ To install and use Win XP 10 Pack, you need to do the following steps:
   3. My Music - Music
   4. My Pictures - Pictures
   5. My Network Places - Network
-- Add 2 shortcuts and set their icons to Win 10(system drive\Win10Pack\icons\imageres):
+- Optional - add 2 shortcuts and set their icons to Win 10(system drive\Win10Pack\icons\imageres):
   1. (Your username). Target: %userprofile%
   2. Control Panel. Target: control.exe
-- Set icons to this order
-  1. (user folder shortcut)
-  2. This PC
-  3. Network
-  4. Control Panel
-  5. Recycle Bin
-  6. Microsoft Edge
 
 That's it! You have successfully installed and used Win 10 UI Pack. Enjoy your new Windows XP!
 
@@ -276,26 +269,27 @@ Start Navigation - (system drive)\Win10Pack\sounds\Windows Navigation Start.wav
 Uninstall correctly
 -------------------
 1. Set Windows XP default theme
-2. Set regular icon size
+2. If was - set regular icon size
 3. Delete cursor
-4. Close toolbar "Quick"
-5. Restore XP Explorer layout
+4. If was - close toolbar "Quick"
+5. If was - restore XP Explorer layout
    - Icon size - Large, Text - random on left
    - Button layout: Back, Forward, Up, (Separator), Folders, Search, (Separator), View
-6. Enable Explorer sidebar
+6. If was - enable Explorer sidebar
 7. Delete fonts
-8. Delete 3 shortcuts
+8. Delete sounds
+9. If was - delete 3 shortcuts
    - Microsoft Edge
    - Control Panel
    - (your username)
-9. Delete (system drive)\Win10Pack
-10. Rename folders to its old name
+10. Delete (system drive)\Win10Pack
+11. If was - rename folders to its old name
     - This PC > My Computer
     - Music > My Music
     - Pictures > My Pictures
     - Documents > My Documents
     - Network > My Network Places
-11. Ready!
+12. Ready!
 
 Disclaimer
 ----------
