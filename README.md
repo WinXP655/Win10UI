@@ -20,6 +20,7 @@ To install and use Win XP 10 Pack, you need to do the following steps:
 - Install wallpaper
 - Install icons
 - Install sounds
+- Set User Profile Picture
 - Optional - set Explorer layout to Win 10 Variant
   1. Set icon size - Small, text of icons - no
   2. Button layout: Back, Forward, Up, Address bar
@@ -266,6 +267,17 @@ Notification Bar - (system drive)\Win10Pack\sounds\Windows Information Bar.wav
 
 Start Navigation - (system drive)\Win10Pack\sounds\Windows Navigation Start.wav
 
+How to install profile picture
+------------------------------
+1. Open Control Panel
+2. Double click "User Accounts"
+3. Click on your user
+4. Click "Change picture"
+5. Click "Browse for picture"
+6. Go to "(system drive)\Win10Pack\profile pictures"
+7. Select "user-48.png"
+8. Click "OK"
+
 Uninstall correctly
 -------------------
 1. Set Windows XP default theme
@@ -278,18 +290,19 @@ Uninstall correctly
 6. If was - enable Explorer sidebar
 7. Delete fonts
 8. Delete sounds
-9. If was - delete 3 shortcuts
+9. Restore default profile picture
+10. If was - delete 3 shortcuts
    - Microsoft Edge
    - Control Panel
    - (your username)
-10. Delete (system drive)\Win10Pack
-11. If was - rename folders to its old name
+11. Delete (system drive)\Win10Pack
+12. If was - rename folders to its old name
     - This PC > My Computer
     - Music > My Music
     - Pictures > My Pictures
     - Documents > My Documents
     - Network > My Network Places
-12. Ready!
+13. Ready!
 
 Disclaimer
 ----------
