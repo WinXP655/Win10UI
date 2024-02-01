@@ -50,16 +50,23 @@ Preparing
 	2. Select visual style "Windows Classic"
 	3. Click "Advanced"
 	4. Set this settings
+        	Set font depend on UI Language
     
-		Title bar - Segoe UI, 9px, Regular
+    		Using latin, cyrillic, greek and other letters - Segoe UI
+    
+    		Chinese and Japanese - Microsoft YaHei UI
+    
+    		Korean - Malgun Gothic
+    
+		Title bar - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Message box - Segoe UI, 9px, Regular
+		Message box - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Menu - Segoe UI, 9px, Regular
+		Menu - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Tooltip - Segoe UI, 9px, Regular
+		Tooltip - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Icon - Segoe UI, 9px, Regular
+		Icon - Font look at "Set font depend on UI Language", 9px, Regular
 
 		Border - 3 px
 
