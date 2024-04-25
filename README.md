@@ -3,7 +3,7 @@ Windows 10 UI Pack for Windows XP
 **![_ae57a1e7-1a43-4171-81ea-52aa685a53b0](https://github.com/WinXP655/Win10UIforXP/assets/150530676/33490954-d89a-4fce-b237-3fc1622ee0ff)
 Logo was generated using **Bing AI Image Creator***
 
-Win XP 10 Pack is a unique and fun pack that combines the old and the new. It makes Windows XP more beautiful, interesting and modern. It adds to it elements from Windows 10, such as icons, sounds, wallpapers, colors, fonts, cursors and more. It also creates some jokes and illusions that can surprise or amuse you and your friends.
+Win XP 10 Pack is a unique and fun pack that combines the old and the new. It makes Windows XP more beautiful, interesting and modern. It adds to it elements from Windows 10, such as icons, sounds, wallpapers, colors, fonts, cursors and more. Furthermore, it also creates some jokes and illusions that can surprise or amuse you and your friends.
 
 Win 10 UI Pack is a pack for those who love to experiment and create. You can customize it to your liking and add your own additions and changes. You can use dummy files, shortcuts, scripts and more to make your pack more original and fun.
 
@@ -50,31 +50,31 @@ Preparing
 	2. Select visual style "Windows Classic"
 	3. Click "Advanced"
 	4. Set this settings
-        	Set font depend on UI Language
+       Set font depend on UI Language
     
-    		Using latin, cyrillic, greek and other letters - Segoe UI
+    	Using latin, cyrillic, greek and other letters - Segoe UI
     
-    		Chinese and Japanese - Microsoft YaHei UI
+    	Chinese and Japanese - Microsoft YaHei UI
     
-    		Korean - Malgun Gothic
+    	Korean - Malgun Gothic
     
-		Title bar - Font look at "Set font depend on UI Language", 9px, Regular
+	Title bar - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Message box - Font look at "Set font depend on UI Language", 9px, Regular
+	Message box - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Menu - Font look at "Set font depend on UI Language", 9px, Regular
+	Menu - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Tooltip - Font look at "Set font depend on UI Language", 9px, Regular
+	Tooltip - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Icon - Font look at "Set font depend on UI Language", 9px, Regular
+	Icon - Font look at "Set font depend on UI Language", 9px, Regular
 
-		Border - 3 px
+	Border - 3 px
 
-		Title bar - 20 px
+	Title bar - 20 px
 
-		Menu - 19 px
+	Menu - 19 px
 
-		Scroll bar - 17 px
+	Scroll bar - 17 px
 
 	6. Click "OK"
 	7. Click "OK"
@@ -85,62 +85,43 @@ Preparing
 3. Set sounds
 	
 Now we're ready to make themes. Make them in an any order
-
-XP 10 Classic:
-
-	1. Import "XP 10 Classic.reg"
- 
-	2. Click "Yes"
- 
-	3. Logoff and logon
- 
-	4. Open "Display Properties"
- 
-	5. Click "Save as"
- 
-	6. Enter "XP 10 Classic"
- 
-	7. Click "Save"
- 
-	8. Theme ready
- 
 	
 XP 10 Dark:
 
-	1. Import "XP 10 Dark.reg"
+1. Import "XP 10 Dark.reg"
  
-	2. Click "Yes"
+2. Click "Yes"
  
-	3. Logoff and logon
+3. Logoff and logon
  
-	4. Open "Display Properties"
+4. Open "Display Properties"
  
-	5. Click "Save as"
+5. Click "Save as"
  
-	6. Enter "XP 10 Dark"
+6. Enter "XP 10 Dark"
  
-	7. Click "Save"
+. Click "Save"
  
-	8. Theme ready
+8. Theme ready
  
 
 XP 10 Light:
 
-	1. Import "XP 10 Light.reg"
+1. Import "XP 10 Light.reg"
  
-	2. Click "Yes"
+2. Click "Yes"
  
-	3. Logoff and logon
+3. Logoff and logon
  
-	4. Open "Display Properties"
+4. Open "Display Properties"
  
-	5. Click "Save as"
+5. Click "Save as"
  
-	6. Enter "XP 10 Light"
+6. Enter "XP 10 Light"
  
-	7. Click "Save"
+7. Click "Save"
  
-	8. Theme ready
+8. Theme ready
  
 
 How to change icons
@@ -314,7 +295,7 @@ Uninstall correctly
 Disclaimer
 ----------
 
-Win XP 10 Pack is a pack created for fun and entertainment purposes only. It does not intend to harm or offend anyone or anything. It does not modify or damage your Windows XP system or files. It does not contain any viruses or malware. It does not guarantee that your Windows XP will work like Windows 10 or that you will be able to run Windows 10 applications or features. It is just a pack that creates illusions and jokes, using dummy files, shortcuts, icons and other elements from Windows 10.
+Win XP 10 Pack is a pack created for fun and entertainment purposes only. It does not intend to harm or offend anyone or anything. It does not modify or damage your Windows XP system or files. Furthermore, it does not contain any viruses or malware. Not only that, but it does not guarantee that your Windows XP will work like Windows 10 or that you will be able to run Windows 10 applications or features. It is just a pack that creates illusions and jokes, using dummy files, shortcuts, icons and other elements from Windows 10.
 
 Use Win XP 10 Pack at your own risk and responsibility. The creator of Win 10 UI Pack is not liable for any damages or losses that may result from using Win 10 UI Pack. The creator of Win 10 UI Pack does not claim any rights or ownership over Windows XP or Windows 10 or any of their components or trademarks. All rights and credits belong to their respective owners.
 
